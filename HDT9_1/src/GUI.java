@@ -19,8 +19,10 @@ import java.awt.Font;
 import javax.swing.JTextField;
 
 /**
- * @author María Mercedes Retolaza Reyna, 16339 
- * Segunda Version
+ * @author María Mercedes Retolaza Reyna, 16339
+ * @authorLuis Diego Fernandez, 16344
+ * @authorJavier Ramos, 16206 
+ * @authorGadhi Rodriguez, 16206  
  * Clase que se encarga de dar la interfaz al usuario.
  */
 public class GUI extends JFrame implements ActionListener{

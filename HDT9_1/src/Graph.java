@@ -1,5 +1,8 @@
 /**
  * @author María Mercedes Retolaza Reyna, 16339 
+ * @authorLuis Diego Fernandez, 16344
+ * @authorJavier Ramos, 16206 
+ * @authorGadhi Rodriguez, 16206 
  *
  * @param <T>
  */

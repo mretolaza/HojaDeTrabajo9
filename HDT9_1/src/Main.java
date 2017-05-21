@@ -1,7 +1,9 @@
 
 /**
  * @author María Mercedes Retolaza Reyna, 16339 
- * @version 2.0
+ * @authorLuis Diego Fernandez, 16344
+ * @authorJavier Ramos, 16206 
+ * @authorGadhi Rodriguez, 16206 
  * Clase Main que se encarga de ejecutar el programa.
  *
  */
